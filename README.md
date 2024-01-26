@@ -55,6 +55,7 @@ I've been learning to code about 5 years in front-end dev and also a little back
 
 ![Ehsan Javadi Most Language Useed Github](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanjavadi1&theme=white&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsanjavadi1" alt="ehsanjavadi1" /></a> </p>
 
 ### My Social Networks :
 <div align="left">
