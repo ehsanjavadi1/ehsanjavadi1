@@ -1,8 +1,5 @@
-
-<img src="https://www.svgrepo.com/show/453059/nerd.svg" width="36" height="36" alt="programmer" /> Hey there, I'm  Ehsan Javadi (ehsanjavadip) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-====================================================================================================================================
-
-So, I'm a Junior Flutter developer and Web Developer & Designer <br>
+<h1>Hi 👋, I'm Ehsan Javadi</h1><br />
+<h3>I'm a Jonior Web developer, intrested in Laravel (PHP) framework. I've been learning to code about 2 years in front-end dev and also back-end developerment specially with PHP. The target is to learn and manage projects via GITHUB platform.</h3><br />
 
 I've been learning to code about 5 years in front-end dev and also a little back-end development with PHP . Irealy want to deep in Flutter framework and Field.... Im learning to code and practicing everyday and pushes in GITHUB and Update everyday Let do ittttttt
 
@@ -73,8 +70,8 @@ I've been learning to code about 5 years in front-end dev and also a little back
 
 
 
-<h1 align="center">Hi 👋, I'm Ehsan Javadi</h1>
-<h3 align="center">I'm a Jonior Web developer, intrested in Laravel (PHP) framework. I've been learning to code about 2 years in front-end dev and also back-end developerment specially with PHP. The target is to learn and manage projects via GITHUB platform.</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanjavadip1&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanjavadip1" /> </p>
 
