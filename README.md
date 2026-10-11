@@ -1,6 +1,7 @@
 
 <h1>Hi 👋 I'm Ehsan Javadi</h1>
 I'm a Jonior Web developer, intrested in Laravel (PHP) framework. I've been learning to code about 2 years in front-end dev and also back-end developerment specially with PHP. The target is to learn and manage projects via GITHUB platform.
+<br/> 
 
 * 🌍  I'm based in Esfahan , Iran
 * 🖥️  I love PHP (Laravel)
